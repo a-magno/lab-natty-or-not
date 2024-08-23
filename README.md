@@ -1,7 +1,7 @@
-## Digimon: Digital Guardians - Regras do RPG de Mesa
+## Regras para um RPG de Mesa
 
 ## 📒 Descrição
-Digimon: Digital Guardians é um RPG de mesa tático onde jogadores assumem o papel de treinadores e seus Digimons, explorando o mundo digital, enfrentando desafios e evoluindo suas criaturas em uma jornada épica e imersiva.
+DinoQuest: Masters of the Lost World é um RPG de mesa tático onde jogadores assumem o papel de treinadores e seus dinosauros, explorando um mundo uma vez perdido, enfrentando desafios e evoluindo suas criaturas em uma jornada épica e imersiva.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para elaboração de regras;
